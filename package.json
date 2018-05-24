@@ -18,6 +18,7 @@
   },
   "homepage": "https://github.com/tomasz-konecki/node.js_ninja#readme",
   "dependencies": {
+    "ejs": "^2.6.1",
     "express": "^4.16.3"
   }
 }
